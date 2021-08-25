@@ -1,9 +1,9 @@
 # smartclide-ide-front-end-theme 
 
-## How to use bootstrap theme
+## Bootstrap
 ```bash
 import '../bootstrap/variables.scss'
 ```
 
-## How to use theia theme
+## Theia
 In development
