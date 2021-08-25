@@ -1,10 +1,9 @@
 # smartclide-ide-front-end-theme 
 
-## Bootstrap
-Please update 'bootstrap/variables.scss" values and then import into your app, for example:
+## How to use bootstrap theme
 ```bash
 import '../bootstrap/variables.scss'
 ```
 
-## Theia
+## How to use theia theme
 In development
