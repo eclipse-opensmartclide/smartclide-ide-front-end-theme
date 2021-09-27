@@ -17,6 +17,6 @@ spec:
   #      cpuLimit:
   #      cpuRequest:
   extensions:
-    - https://github.com/eclipse-researchlabs/smartclide-ide-front-end-theme/releases/download/v0.0.1/smartclide-theia-theme.vsix
+    - https://github.com/eclipse-researchlabs/smartclide-ide-front-end-theme/releases/download/v0.0.1/smartclide-theia-theme-0.0.1.vsix
 #    - https://github.com/redhat-developer/vscode-yaml/releases/download/0.4.0/redhat.vscode-yaml-0.4.0.vsix
 #    - https://github.com/SonarSource/sonarlint-vscode/releases/download/1.16.0/sonarlint-vscode-1.16.0.vsix
